@@ -1,1 +1,1 @@
-# Hotel-Management-System in C Programming
+# Hotel-Management-System
